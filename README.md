@@ -13,3 +13,7 @@ for this objective user can download the repository from git and then extract th
 **4.Create Patient report:** [POST]: /patients/:id/create_report
 **5.Fetch All Reports of a Patient** [POST]: /patients/:id/get_allReport
 **6.Fetch All Reports Based on a Status**: [GET]: /report/:status
+
+
+***to get register as a doctor need email,name,password***
+***to register patient doctor need patient's phone number,name and his id***
